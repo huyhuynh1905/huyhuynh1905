@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huyhuynh1905&label=Profile%20views&color=0e75b6&style=flat" alt="huyhuynh1905" /> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **Android , Flutter**
 
